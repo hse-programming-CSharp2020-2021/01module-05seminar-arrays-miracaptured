@@ -26,13 +26,30 @@ namespace Task05
             RunTask05();
         }
 
+
         public static void RunTask05()
         {
-            int N = int.Parse(Console.ReadLine());
+            long N = long.Parse(Console.ReadLine());
 
             // TODO: объявите массив и вызовите метод для его заполнения
-            
+            long[] array = new long[N];
+            FillArray(array);
+
             // TODO: выведите массив на экран в требуемом порядке
+            for (long i = array.Length - 1; i >= 0; --i)
+            {
+                Console.Write($"{array[i]} ");
+            }
         }
+
+        private static void FillArray(long[] arr)
+        {
+            arr[0] = arr[1] = 1;
+            for (long i = 2; i < arr.Length; ++i)
+            {
+                arr[i] = arr[i - 1] + arr[i - 2];
+            }
+        }
+        
     }
 }

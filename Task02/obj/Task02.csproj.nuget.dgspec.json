@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dariaeremina/RiderProjects/_01_05_Arrays/Task02/Task02.csproj": {}
+    "/home/mira/RiderProjects/01module-05seminar-arrays-miracaptured/Task02/Task02.csproj": {}
   },
   "projects": {
-    "/Users/dariaeremina/RiderProjects/_01_05_Arrays/Task02/Task02.csproj": {
+    "/home/mira/RiderProjects/01module-05seminar-arrays-miracaptured/Task02/Task02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dariaeremina/RiderProjects/_01_05_Arrays/Task02/Task02.csproj",
+        "projectUniqueName": "/home/mira/RiderProjects/01module-05seminar-arrays-miracaptured/Task02/Task02.csproj",
         "projectName": "Task02",
-        "projectPath": "/Users/dariaeremina/RiderProjects/_01_05_Arrays/Task02/Task02.csproj",
-        "packagesPath": "/Users/dariaeremina/.nuget/packages/",
-        "outputPath": "/Users/dariaeremina/RiderProjects/_01_05_Arrays/Task02/obj/",
+        "projectPath": "/home/mira/RiderProjects/01module-05seminar-arrays-miracaptured/Task02/Task02.csproj",
+        "packagesPath": "/home/mira/.nuget/packages/",
+        "outputPath": "/home/mira/RiderProjects/01module-05seminar-arrays-miracaptured/Task02/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/dariaeremina/.config/NuGet/NuGet.Config"
+          "/home/mira/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -53,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     }
