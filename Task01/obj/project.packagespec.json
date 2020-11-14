@@ -1,14 +1,11 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/dariaeremina/RiderProjects/_01_05_Arrays/Task01/Task01.csproj",
+    "projectUniqueName": "/home/mira/RiderProjects/01module-05seminar-arrays-miracaptured/Task01/Task01.csproj",
     "projectName": "Task01",
-    "projectPath": "/Users/dariaeremina/RiderProjects/_01_05_Arrays/Task01/Task01.csproj",
-    "outputPath": "/Users/dariaeremina/RiderProjects/_01_05_Arrays/Task01/obj/",
+    "projectPath": "/home/mira/RiderProjects/01module-05seminar-arrays-miracaptured/Task01/Task01.csproj",
+    "outputPath": "/home/mira/RiderProjects/01module-05seminar-arrays-miracaptured/Task01/obj/",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp3.1"
     ],
@@ -43,7 +40,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
     }
   }
 }

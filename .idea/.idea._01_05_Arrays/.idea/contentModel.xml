@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/__01_05_Arrays.-260993547.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/__01_05_Arrays.1921814931.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
-      <e p="_01_05_Arrays.sln" t="IncludeFlat" />
-      <e p="packages" t="ExcludeRecursive" />
       <e p="Task01" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Task01.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -15,10 +15,10 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
-        <e p="Task01.csproj" t="IncludeRecursive" />
       </e>
       <e p="Task02" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Task02.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -27,10 +27,10 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
-        <e p="Task02.csproj" t="IncludeRecursive" />
       </e>
       <e p="Task03" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Task03.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -39,10 +39,10 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
-        <e p="Task03.csproj" t="IncludeRecursive" />
       </e>
       <e p="Task04" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Task04.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -51,10 +51,10 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
-        <e p="Task04.csproj" t="IncludeRecursive" />
       </e>
       <e p="Task05" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Task05.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -63,9 +63,9 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
-        <e p="Task05.csproj" t="IncludeRecursive" />
       </e>
+      <e p="_01_05_Arrays.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
 </project>
